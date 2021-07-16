@@ -9,7 +9,7 @@
 #define population 10000
 #define max_of_edges 3000
 #define maximum_time 300
-#define trans_prob 0.5
+#define trans_prob 0.1
 #define rec_prob 0.2
 
 int biased_coin(double prob)											//Tosses a Biased Coin with a probability

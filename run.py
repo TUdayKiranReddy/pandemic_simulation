@@ -28,7 +28,7 @@ plt.plot(times,no_of_infections,label = 'Infections')
 plt.plot(times,no_of_recoveries,label = 'Recoveries')
 
 
-plt.xlabel("Time")
+plt.xlabel("Time in days")
 plt.ylabel("#Infections")
 plt.grid()
 plt.legend()
